@@ -1,1 +1,13 @@
+{
+  "name": "iOSeverything",
+  "identifier": "com.github.uxp70",
+  "subtitle": "!",
+  "description": "iOSeverything repository.",
+  "website": "https://github.com/uxp70/iOSeverything",
+  "tintColor": "F1533E",
+  "iconURL": "",
+  "updateFrequency": "As soon as possible.",
+  "apps": [
 
+    ]
+}
